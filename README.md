@@ -6,8 +6,8 @@
 ### 本教程致力于为下面的编程语言/工具提供规范：
 
 * **Git**
-* **HTML**
-* **CSS**
+* **[HTML](https://github.com/skill-courses/coding-rules/tree/master/html)**
+* **[CSS](https://github.com/skill-courses/coding-rules/tree/master/css)**
 * **JavaScript**
 * **Java**
 * **SQL**
