@@ -9,7 +9,7 @@
 * **[HTML](https://github.com/skill-courses/coding-rules/tree/master/html)**
 * **[CSS](https://github.com/skill-courses/coding-rules/tree/master/css)**
 * **[JavaScript](https://github.com/skill-courses/coding-rules/tree/master/Javascript)**
-* **Java**
+* **[Java](https://github.com/skill-courses/coding-rules/tree/master/java)**
 * **SQL**
 * **Python**
 * 等你来贡献。。。。
