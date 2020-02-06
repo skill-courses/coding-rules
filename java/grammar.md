@@ -55,15 +55,15 @@ new int[]{0, 1, 2, 3}
     示例：
     ```
         switch (input) {
-          case 1:
-          case 2:
-            prepareOneOrTwo();
-            // fall through
-          case 3:
-            handleOneTwoOrThree();
-            break;
-          default:
-            handleLargeNumber(input);
+            case 1:
+            case 2:
+                prepareOneOrTwo();
+                // fall through
+            case 3:
+                handleOneTwoOrThree();
+                break;
+            default:
+                handleLargeNumber(input);
         }
     ```
  -  default
