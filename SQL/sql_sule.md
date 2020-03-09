@@ -49,6 +49,6 @@ GROUP BY
 
 - 表必须有主键且尽量选择较短的数据类型
 
-- 禁止使用不好字段名的插入语句:`INSERT INTO table_name VALUES(xxx)`，必须显示指定插入的列属性
+- 禁止使用没有字段名的插入语句:`INSERT INTO table_name VALUES(xxx)`，必须显示指定插入的列属性
 
 - 库名、表名、字段名禁止使用MySQL关键字/保留字 [MySQL关键字](https://dev.mysql.com/doc/refman/8.0/en/keywords.html)
